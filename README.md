@@ -19,4 +19,4 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![image](https://github.com/aveandrian/coding-bootcamp-testimonials-slider-react/assets/13519212/b1e43f8f-88cd-4468-8e05-8be5bb5cba5b)
